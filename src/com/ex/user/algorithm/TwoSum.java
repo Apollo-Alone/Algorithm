@@ -1,4 +1,4 @@
-package com.ex.user;
+package com.ex.user.algorithm;
 
 import java.util.HashMap;
 import java.util.Map;
